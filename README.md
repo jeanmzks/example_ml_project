@@ -4,7 +4,7 @@
 * clone repository
 * Run `make install` to install dependencies
 * Run `make test` to test end-to-end workflow
-* 
+  
 * Optional: 
  * Run `python run.py` to execute workflow directly
  * Run `uvicorn inference:app --reload --host 0.0.0.0 --port 8001` to serve model on port 8001
